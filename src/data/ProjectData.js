@@ -37,7 +37,7 @@ const ProjectData = [
     id: "4",
     title: "YB Website v2",
     github: "https://github.com/yurii-bel/v2",
-    demo: "https://www.youtube.com",
+    demo: "https://yb-website-v2.vercel.app/",
     tools: ["HTML", "CSS", "JavaScript", "React", "TailwindCSS"],
     img: "portfolio-images/yb_website_v2.png",
     video: "portfolio-videos/yb_website_v2_video.mp4",
