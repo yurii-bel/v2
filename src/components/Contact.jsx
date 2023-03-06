@@ -14,9 +14,9 @@ const Contact = () => {
         <h1 className="text-slate-300 flex flex-wrap mb-6">Get in touch</h1>
       </div>
       <p className="text-slate-300 w-full text-center px-2 border-l border-r border-green-300 sm:w-3/4">
-        Although I'm not currently looking for any new opportunities, my inbox
-        is always open. Whether you have a question or just want to say hi, I'll
-        try my best to get back to you!
+        I'm currently looking for any new opportunities and my inbox is always
+        open. Get in touch or shoot me an email directly on
+        yuriibel888@gmail.com. I will get back to you as soon as possible.
       </p>
       <a
         href="mailto:yuriibel888@gmail.com"
